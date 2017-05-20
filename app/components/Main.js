@@ -47,8 +47,7 @@ var Main = React.createClass({
 			<div className="container">
 				<div className="row">
 					<div className="jumbotron text-center">
-						<h2>New York Times React Article Search & Save</h2>
-						<p><em>Search for and annotate articles of interest!</em></p>
+						<h2>New York Times React - Article  Search & Save</h2>
 					</div>
 					<div className="row">
                               <div className="col-md-12">
